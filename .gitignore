@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# environment
+*.env
+
+# errors
+*.errors.logs
+errors.logs
+next-ecommerce-403923-firebase-adminsdk-8o0lg-10d606a744.*
+
+mails.txt
+mails.*
+*.txt
